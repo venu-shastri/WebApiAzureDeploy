@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5Emyhqt2F8zJDdn47GGf08BFUsSZ+fE0IS+zToSmEWs=",
+  "Source": "WebApiAzureDeploy",
+  "BasePath": "_content/WebApiAzureDeploy",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
